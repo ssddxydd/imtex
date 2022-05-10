@@ -3,7 +3,8 @@
  
 
  Basic pipeline
-::: mermaid
+
+``` mermaid
 flowchart TD;
 clipping --> preprocessing
 transform --> ml
@@ -31,4 +32,4 @@ transform --> ml
     load --> insert
     end
     local_model & spark_node-->Response
-:::
+```
