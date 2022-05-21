@@ -1,0 +1,124 @@
+<module type="JAVA_MODULE" version="4">
+    <component name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/../../out/ideaOutputDir-mill-build"/>
+        <content url="file://$MODULE_DIR$/../..">
+            <excludeFolder url="file://$MODULE_DIR$/../../project"/>
+            <excludeFolder url="file://$MODULE_DIR$/../../target"/>
+            <excludeFolder url="file://$MODULE_DIR$/../../out"/>
+        </content>
+        <exclude-output/>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry type="sourceFolder" forTests="false"/>
+        <orderEntry type="library" name="ammonite-compiler-interface_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-compiler_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-interp-api_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-interp_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-repl-api_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-repl_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-runtime_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-terminal_2.13-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite-util_2.13-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="ammonite_2.13.7-2.5.0.jar" level="project"/>
+        <orderEntry type="library" name="animal-sniffer-annotations-1.17.jar" level="project"/>
+        <orderEntry type="library" name="ant-1.9.9.jar" level="project"/>
+        <orderEntry type="library" name="ant-launcher-1.9.9.jar" level="project"/>
+        <orderEntry type="library" name="argonaut-shapeless_6.2_2.13-1.2.0.jar" level="project"/>
+        <orderEntry type="library" name="argonaut_2.13-6.2.5.jar" level="project"/>
+        <orderEntry type="library" name="asm-9.2.jar" level="project"/>
+        <orderEntry type="library" name="asm-analysis-9.2.jar" level="project"/>
+        <orderEntry type="library" name="asm-commons-9.2.jar" level="project"/>
+        <orderEntry type="library" name="asm-tree-9.2.jar" level="project"/>
+        <orderEntry type="library" name="bsp4j-2.0.0.jar" level="project"/>
+        <orderEntry type="library" name="cdi-api-1.0.jar" level="project"/>
+        <orderEntry type="library" name="checker-qual-2.5.2.jar" level="project"/>
+        <orderEntry type="library" name="common_2.13-4.4.31.jar" level="project"/>
+        <orderEntry type="library" name="commons-lang3-3.8.1.jar" level="project"/>
+        <orderEntry type="library" name="concurrent-reference-hash-map-1.1.0.jar" level="project"/>
+        <orderEntry type="library" name="config-1.4.1.jar" level="project"/>
+        <orderEntry type="library" name="coursier-cache_2.13-2.0.16-200-ge888c6dea.jar" level="project"/>
+        <orderEntry type="library" name="coursier-core_2.13-2.0.16-200-ge888c6dea.jar" level="project"/>
+        <orderEntry type="library" name="coursier-util_2.13-2.0.16-200-ge888c6dea.jar" level="project"/>
+        <orderEntry type="library" name="coursier_2.13-2.0.16-200-ge888c6dea.jar" level="project"/>
+        <orderEntry type="library" name="error_prone_annotations-2.2.0.jar" level="project"/>
+        <orderEntry type="library" name="failureaccess-1.0.1.jar" level="project"/>
+        <orderEntry type="library" name="fansi_2.13-0.3.0.jar" level="project"/>
+        <orderEntry type="library" name="fastparse-v2_2.13-2.3.1.jar" level="project"/>
+        <orderEntry type="library" name="fastparse_2.13-2.3.0.jar" level="project"/>
+        <orderEntry type="library" name="geny_2.13-0.7.0.jar" level="project"/>
+        <orderEntry type="library" name="gson-2.8.9.jar" level="project"/>
+        <orderEntry type="library" name="guava-27.1-jre.jar" level="project"/>
+        <orderEntry type="library" name="interface-0.0.21.jar" level="project"/>
+        <orderEntry type="library" name="ipcsocket-1.0.1.jar" level="project"/>
+        <orderEntry type="library" name="j2objc-annotations-1.1.jar" level="project"/>
+        <orderEntry type="library" name="jansi-1.18.jar" level="project"/>
+        <orderEntry type="library" name="jarjar-1.8.0.jar" level="project"/>
+        <orderEntry type="library" name="jarjar-abrams-core_2.13-1.8.0.jar" level="project"/>
+        <orderEntry type="library" name="javaparser-core-3.2.5.jar" level="project"/>
+        <orderEntry type="library" name="javassist-3.21.0-GA.jar" level="project"/>
+        <orderEntry type="library" name="javax.inject-1.jar" level="project"/>
+        <orderEntry type="library" name="jline-3.20.0.jar" level="project"/>
+        <orderEntry type="library" name="jline-reader-3.14.1.jar" level="project"/>
+        <orderEntry type="library" name="jline-terminal-3.14.1.jar" level="project"/>
+        <orderEntry type="library" name="jline-terminal-jna-3.14.1.jar" level="project"/>
+        <orderEntry type="library" name="jna-5.10.0.jar" level="project"/>
+        <orderEntry type="library" name="jna-platform-5.10.0.jar" level="project"/>
+        <orderEntry type="library" name="jsr250-api-1.0.jar" level="project"/>
+        <orderEntry type="library" name="jsr305-3.0.2.jar" level="project"/>
+        <orderEntry type="library" name="lenses_2.13-0.11.4.jar" level="project"/>
+        <orderEntry type="library" name="listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" level="project"/>
+        <orderEntry type="library" name="mainargs_2.13-0.2.2.jar" level="project"/>
+        <orderEntry type="library" name="maven-artifact-3.3.9.jar" level="project"/>
+        <orderEntry type="library" name="maven-model-3.3.9.jar" level="project"/>
+        <orderEntry type="library" name="maven-plugin-api-3.3.9.jar" level="project"/>
+        <orderEntry type="library" name="mill-bsp_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main-api_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main-client-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main-core_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main-moduledefs_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main-util_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-main_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalajslib-api_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalajslib_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalalib-api_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalalib_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalanativelib-api-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-scalanativelib_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="mill-testrunner_2.13-0.10.0-M5.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.lsp4j.generator-0.12.0.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.lsp4j.jsonrpc-0.12.0.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.sisu.inject-0.3.2.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.sisu.plexus-0.3.2.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.xtend.lib-2.24.0.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.xtend.lib.macro-2.24.0.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.xtext.xbase.lib-2.24.0.jar" level="project"/>
+        <orderEntry type="library" name="os-lib_2.13-0.8.0.jar" level="project"/>
+        <orderEntry type="library" name="plexus-classworlds-2.5.2.jar" level="project"/>
+        <orderEntry type="library" name="plexus-component-annotations-1.5.5.jar" level="project"/>
+        <orderEntry type="library" name="plexus-utils-3.0.22.jar" level="project"/>
+        <orderEntry type="library" name="portable-scala-reflect_2.13-0.1.1.jar" level="project"/>
+        <orderEntry type="library" name="pprint_2.13-0.7.1.jar" level="project"/>
+        <orderEntry type="library" name="protobuf-java-3.15.8.jar" level="project"/>
+        <orderEntry type="library" name="requests_2.13-0.7.0.jar" level="project"/>
+        <orderEntry type="library" name="scala-collection-compat_2.13-2.6.0.jar" level="project"/>
+        <orderEntry type="library" name="scala-compiler-2.13.7.jar" level="project"/>
+        <orderEntry type="library" name="scala-library-2.13.7.jar" level="project"/>
+        <orderEntry type="library" name="scala-reflect-2.13.7.jar" level="project"/>
+        <orderEntry type="library" name="scala-xml_2.13-2.0.1.jar" level="project"/>
+        <orderEntry type="library" name="scalafmt-dynamic_2.13-3.0.8.jar" level="project"/>
+        <orderEntry type="library" name="scalafmt-interfaces-3.0.8.jar" level="project"/>
+        <orderEntry type="library" name="scalaparse_2.13-2.3.0.jar" level="project"/>
+        <orderEntry type="library" name="scalapb-runtime_2.13-0.11.4.jar" level="project"/>
+        <orderEntry type="library" name="shapeless_2.13-2.3.3.jar" level="project"/>
+        <orderEntry type="library" name="sourcecode_2.13-0.2.7.jar" level="project"/>
+        <orderEntry type="library" name="test-interface-1.0.jar" level="project"/>
+        <orderEntry type="library" name="trees_2.13-4.4.31.jar" level="project"/>
+        <orderEntry type="library" name="ujson_2.13-1.4.3.jar" level="project"/>
+        <orderEntry type="library" name="upack_2.13-1.4.3.jar" level="project"/>
+        <orderEntry type="library" name="upickle-core_2.13-1.4.3.jar" level="project"/>
+        <orderEntry type="library" name="upickle-implicits_2.13-1.4.3.jar" level="project"/>
+        <orderEntry type="library" name="upickle_2.13-1.4.3.jar" level="project"/>
+        <orderEntry type="library" name="utest_2.13-0.7.5.jar" level="project"/>
+        <orderEntry type="library" name="windows-ansi-0.0.3.jar" level="project"/>
+        <orderEntry type="library" name="windows-jni-utils-0.3.2.jar" level="project"/>
+    </component>
+</module>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+    <library name="windows-jni-utils-0.3.2.jar">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/../../../../../../../home/tj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.2/windows-jni-utils-0.3.2.jar!/"/>
+        </CLASSES>
+        <SOURCES>
+            <root url="jar://$PROJECT_DIR$/../../../../../../../home/tj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.2/windows-jni-utils-0.3.2-sources.jar!/"/>
+        </SOURCES>
+    </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+    <library name="coursier_2.13-2.0.16-200-ge888c6dea.jar">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/../../../../../../../home/tj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.0.16-200-ge888c6dea/coursier_2.13-2.0.16-200-ge888c6dea.jar!/"/>
+        </CLASSES>
+        <SOURCES>
+            <root url="jar://$PROJECT_DIR$/../../../../../../../home/tj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.0.16-200-ge888c6dea/coursier_2.13-2.0.16-200-ge888c6dea-sources.jar!/"/>
+        </SOURCES>
+    </library>
+</component>
